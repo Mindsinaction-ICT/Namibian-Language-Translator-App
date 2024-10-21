@@ -1,0 +1,342 @@
+[
+  {
+    "id": "001",
+    "texts": {
+      "english": "Hello, how are you?",
+      "kavango": "Morokeni! One Ngapi?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Tjike, uri nawa?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "002",
+    "texts": {
+      "english": "What is your name?",
+      "kavango": "Yinke edina lyoge?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Ena roye otjikwaye?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "003",
+    "texts": {
+      "english": "My name is [your name].",
+      "kavango": "Edina lyange(...)",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Ena randje owami (...)",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "004",
+    "texts": {
+      "english": "Where are you from?",
+      "kavango": "Kupi watunda?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Wazapi?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "005",
+    "texts": {
+      "english": "I don't understand.",
+      "kavango": "Kapi nakuyi kwata egano.",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Hina kuzuva.",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "006",
+    "texts": {
+      "english": "Can you speak more slowly?",
+      "kavango": "Kuvura o huyunge kuliwora?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Moyenene okuhingira katiti?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "007",
+    "texts": {
+      "english": "Please repeat that.",
+      "kavango": "Rugurukamo si nakanderere.",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Arikana yarukira porukuao.",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "008",
+    "texts": {
+      "english": "How much does this cost?",
+      "kavango": "Esi yingapi?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Otjinatji tjina vingapi?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "009",
+    "texts": {
+      "english": "Where is the bathroom?",
+      "kavango": "Kupiko ko kanzugo?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Okaruho keripi?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "010",
+    "texts": {
+      "english": "Can you help me?",
+      "kavango": "Kuvura o vaterengeko?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Moyenene okundjivatera?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "011",
+    "texts": {
+      "english": "What time is it?",
+      "kavango": "Yisinke vili ngesi?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Oiri ongapi?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "012",
+    "texts": {
+      "english": "I need a doctor.",
+      "kavango": "Nahepako mupangi.",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Mehepa onganga.",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "013",
+    "texts": {
+      "english": "Do you speak [language]?",
+      "kavango": "Nove kuhuyunga (..)?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Uhungira otjiherero?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "014",
+    "texts": {
+      "english": "I am lost.",
+      "kavango": "Nazumbana.",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Mbapandjara.",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "015",
+    "texts": {
+      "english": "What is this item called in [language]?",
+      "kavango": "Ngapi o muyizigida eyi meraka lyeni?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Otjina tji tjisaneua kutjavi motjiherero?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "016",
+    "texts": {
+      "english": "Can I borrow your phone?",
+      "kavango": "Kuvura o vaterengeko no funguna zoge?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Meyenene okuyazema ongoze yoe?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "017",
+    "texts": {
+      "english": "I am looking for [place or person].",
+      "kavango": "Ame kwaku papara (muntu ndi evango)?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Mepaha omundu po oruveze.",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  }, {
+    "id": "018",
+    "texts": {
+      "english": "Can you show me the way?",
+      "kavango": "Kuvura o likidenge nzira?",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Moyenene okundjiyarisira ondjira?",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "019",
+    "texts": {
+      "english": "Thank you very much.",
+      "kavango": "Mpandu sili.",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Okuhepa.",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  },
+   {
+    "id": "020",
+    "texts": {
+      "english": "Goodbye! See you later.",
+      "kavango": "Mbaa zoge! Natulimona konyima.",
+      "oshiwambo": "Oshike? Wa hala po nawa?",
+      "herero": "Perinawa! Matuhakaene kombunda.",
+      "damara": "ǁGâi! Tare ǀnamab?"
+    },
+    "audioFiles": {
+      "english": "assets/audios/001_en.m4a",
+      "kavango": "assets/audios/001_kv.m4a",
+      "oshiwambo": "assets/audios/001_kv.m4a",
+      "herero": "assets/audios/001_kv.m4a",
+      "damara": "assets/audios/001_kv.m4a"
+    }
+  }
+  
+]
