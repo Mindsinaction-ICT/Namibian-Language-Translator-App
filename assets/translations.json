@@ -6,7 +6,7 @@
       "kavango": "Morokeni! One Ngapi?",
       "oshiwambo": "Owalelepo nawa?",
       "herero": "Tjike, uri nawa?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Matisa?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -23,7 +23,7 @@
       "kavango": "Yinke edina lyoge?",
       "oshiwambo": "Edina loye olye?",
       "herero": "Ena roye otjikwaye?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Mâti du /on Hâ?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -40,7 +40,7 @@
       "kavango": "Edina lyange(...)",
       "oshiwambo": "Edina lange aame, Tito",
       "herero": "Ena randje owami (...)",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Ti /ons ge a [your name]"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -57,7 +57,7 @@
       "kavango": "Kupi watunda?",
       "oshiwambo": "Owadja peni?",
       "herero": "Wazapi?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Maba xu du ra /khī?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -74,7 +74,7 @@
       "kavango": "Kapi nakuyi kwata egano.",
       "oshiwambo": "Ka ndi uditeko.",
       "herero": "Hina kuzuva.",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "//Nau!ā tama ta ge hâ."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -91,7 +91,7 @@
       "kavango": "Kuvura o huyunge kuliwora?",
       "oshiwambo": "Otodulu okupopya kashona?",
       "herero": "Moyenene okuhingira katiti?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "//Aeb /kha !khoa re. "
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -108,7 +108,7 @@
       "kavango": "Rugurukamo si nakanderere.",
       "oshiwambo": "Kwafelenge wu endululemo.",
       "herero": "Arikana yarukira porukuao.",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "//khawa du mî o."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -125,7 +125,7 @@
       "kavango": "Esi yingapi?",
       "oshiwambo": "Oshina ingapi?",
       "herero": "Otjinatji tjina vingapi?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Matikose ī ra #gan"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -142,7 +142,7 @@
       "kavango": "Kupiko ko kanzugo?",
       "oshiwambo": "Oka likwafelo okeli peni?",
       "herero": "Okaruho keripi?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "#Khari-omsa maba hâ?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -159,7 +159,7 @@
       "kavango": "Kuvura o vaterengeko?",
       "oshiwambo": "Otodulu oku kwafelange?",
       "herero": "Moyenene okundjivatera?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Hui te //kha i du a?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -176,7 +176,7 @@
       "kavango": "Yisinke vili ngesi?",
       "oshiwambo": "Efimbo ongapi paife?",
       "herero": "Oiri ongapi?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Matiko llaexa i go?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -193,7 +193,7 @@
       "kavango": "Nahepako mupangi.",
       "oshiwambo": "Onda pumbwa ndohotola.",
       "herero": "Mehepa onganga.",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "/Aedi-aoe ta ge #hâ hâ."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -210,7 +210,7 @@
       "kavango": "Nove kuhuyunga (..)?",
       "oshiwambo": "Oho popi oshi kwanyama?",
       "herero": "Uhungira otjiherero?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "[Language+a(suffix)] !khoa i du ra?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -227,7 +227,7 @@
       "kavango": "Nazumbana.",
       "oshiwambo": "Ondakana.",
       "herero": "Mbapandjara.",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Ga da ge hâ."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -244,7 +244,7 @@
       "kavango": "Ngapi o muyizigida eyi meraka lyeni?",
       "oshiwambo": "Ohashi ufanwa shike mo shiingilisha?",
       "herero": "Otjina tji tjisaneua kutjavi motjiherero?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "[Language] !nâ mati du ra #gai ne xū-e?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -261,7 +261,7 @@
       "kavango": "Kuvura o vaterengeko no funguna zoge?",
       "oshiwambo": "Kwafelenge ongodi yoye yopeke?",
       "herero": "Meyenene okuyazema ongoze yoe?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Sa //â//âwaba /khuwi //kha i da a?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -278,7 +278,7 @@
       "kavango": "Ame kwaku papara (muntu ndi evango)?",
       "oshiwambo": "Oha ndikongo Mindsinaction",
       "herero": "Mepaha omundu po oruveze.",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "[Person’s name/place +sa/ba (suffix depends on gender, sa is added to a femimine sound and ba to a mascular sound) ] ta ge ra ôa."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -294,7 +294,7 @@
       "kavango": "Kuvura o likidenge nzira?",
       "oshiwambo": "Oto dulu oku ulikilange ondjila?",
       "herero": "Moyenene okundjiyarisira ondjira?",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Daoba //gaude //kha i du a toxopa?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -311,7 +311,7 @@
       "kavango": "Mpandu sili.",
       "oshiwambo": "Onda pandula unene",
       "herero": "Okuhepa.",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Kai gangans."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
@@ -328,7 +328,7 @@
       "kavango": "Mbaa zoge! Natulimona konyima.",
       "oshiwambo": "Uhalapo nawa, ohatulimono nale.",
       "herero": "Perinawa! Matuhakaene kombunda.",
-      "damara": "ǁGâi! Tare ǀnamab?"
+      "damara": "Bye egam nî mû gu."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
