@@ -12,8 +12,8 @@
       "english": "assets/audios/001_en.m4a",
       "kavango": "assets/audios/001_kv.m4a",
       "oshiwambo": "assets/audios/001_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/001_he.m4a",
+      "damara": "assets/audios/001_dm.m4a"
     }
   },
    {
@@ -27,10 +27,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/002_kv.m4a",
       "oshiwambo": "assets/audios/002_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/002_he.m4a",
+      "damara": "assets/audios/002_dm.m4a"
     }
   },
    {
@@ -44,10 +44,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/003_kv.m4a",
       "oshiwambo": "assets/audios/003_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/003_kv.m4a",
+      "damara": "assets/audios/003_dm.m4a"
     }
   },
    {
@@ -61,10 +61,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/004_kv.m4a",
       "oshiwambo": "assets/audios/004_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/004_kv.m4a",
+      "damara": "assets/audios/004_dm.m4a"
     }
   },
    {
@@ -78,10 +78,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/005_kv.m4a",
       "oshiwambo": "assets/audios/005_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/005_kv.m4a",
+      "damara": "assets/audios/005_dm.m4a"
     }
   },
    {
@@ -95,10 +95,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/006_kv.m4a",
       "oshiwambo": "assets/audios/006_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/006_kv.m4a",
+      "damara": "assets/audios/006_dm.m4a"
     }
   },
    {
@@ -112,10 +112,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/007_kv.m4a",
       "oshiwambo": "assets/audios/007_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/007_kv.m4a",
+      "damara": "assets/audios/007_dm.m4a"
     }
   },
    {
@@ -129,10 +129,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/008_kv.m4a",
       "oshiwambo": "assets/audios/008_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/008_kv.m4a",
+      "damara": "assets/audios/008_dm.m4a"
     }
   },
    {
@@ -146,10 +146,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/009_kv.m4a",
       "oshiwambo": "assets/audios/009_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/009_kv.m4a",
+      "damara": "assets/audios/009_dm.m4a"
     }
   },
    {
@@ -163,10 +163,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/010_kv.m4a",
       "oshiwambo": "assets/audios/010_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/010_kv.m4a",
+      "damara": "assets/audios/010_dm.m4a"
     }
   },
    {
@@ -180,10 +180,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/011_kv.m4a",
       "oshiwambo": "assets/audios/011_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/011_kv.m4a",
+      "damara": "assets/audios/011_dm.m4a"
     }
   },
    {
@@ -197,10 +197,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/012_kv.m4a",
       "oshiwambo": "assets/audios/012_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/012_kv.m4a",
+      "damara": "assets/audios/012_dm.m4a"
     }
   },
    {
@@ -214,10 +214,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/013_kv.m4a",
       "oshiwambo": "assets/audios/013_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/013_kv.m4a",
+      "damara": "assets/audios/013_dm.m4a"
     }
   },
    {
@@ -231,10 +231,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/014_kv.m4a",
       "oshiwambo": "assets/audios/014_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/014_kv.m4a",
+      "damara": "assets/audios/014_dm.m4a"
     }
   },
    {
@@ -248,10 +248,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/015_kv.m4a",
       "oshiwambo": "assets/audios/015_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/015_kv.m4a",
+      "damara": "assets/audios/015_dm.m4a"
     }
   },
    {
@@ -265,10 +265,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/016_kv.m4a",
       "oshiwambo": "assets/audios/016_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/016_kv.m4a",
+      "damara": "assets/audios/016_dm.m4a"
     }
   },
    {
@@ -282,10 +282,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/017_kv.m4a",
       "oshiwambo": "assets/audios/017_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/017_kv.m4a",
+      "damara": "assets/audios/017_dm.m4a"
     }
   }, {
     "id": "018",
@@ -298,27 +298,27 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/018_kv.m4a",
       "oshiwambo": "assets/audios/018_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/018_kv.m4a",
+      "damara": "assets/audios/018_dm.m4a"
     }
   },
    {
     "id": "019",
     "texts": {
       "english": "Thank you very much.",
-      "kavango": "Mpandu sili.",
+      "kavango": "Mpandu Uneme.",
       "oshiwambo": "Onda pandula unene",
       "herero": "Okuhepa.",
       "damara": "Kai gangans."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/019_kv.m4a",
       "oshiwambo": "assets/audios/019_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/019_kv.m4a",
+      "damara": "assets/audios/019_dm.m4a"
     }
   },
    {
@@ -332,10 +332,10 @@
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
+      "kavango": "assets/audios/020_kv.m4a",
       "oshiwambo": "assets/audios/020_ow.m4a",
-      "herero": "assets/audios/001_kv.m4a",
-      "damara": "assets/audios/001_kv.m4a"
+      "herero": "assets/audios/020_kv.m4a",
+      "damara": "assets/audios/020_dm.m4a"
     }
   }
   
