@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:just_audio/just_audio.dart';
+import 'package:provider/provider.dart';
 import '../providers/translation_provider.dart';
 
 class HomeScreen extends StatelessWidget {
