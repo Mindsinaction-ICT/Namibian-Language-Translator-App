@@ -292,7 +292,7 @@ class _HomeScreenState extends State<HomeScreen> {
         borderRadius: BorderRadius.circular(12),
       ),
       child: Padding(
-        padding: EdgeInsets.all(24),
+        padding: EdgeInsets.all(6),
         child: Column(
           children: [
             Container(
@@ -323,13 +323,13 @@ class _HomeScreenState extends State<HomeScreen> {
                     decoration: InputDecoration(
                       hintText: 'Enter text to translate...',
                       border: InputBorder.none,
-                      contentPadding: EdgeInsets.all(16),
+                      contentPadding: EdgeInsets.all(6),
                     ),
                   );
                 },
               ),
             ),
-            SizedBox(height: 16),
+            SizedBox(height: 6),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
@@ -348,7 +348,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Color(0xFFD97706),
                     foregroundColor: Colors.white,
-                    padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    padding: EdgeInsets.symmetric(horizontal: 6, vertical: 8),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8),
                     ),
@@ -373,12 +373,12 @@ class _HomeScreenState extends State<HomeScreen> {
         borderRadius: BorderRadius.circular(12),
       ),
       child: Padding(
-        padding: EdgeInsets.all(24),
+        padding: EdgeInsets.all(8),
         child: Column(
           children: [
             Container(
-              height: 128,
-              padding: EdgeInsets.all(16),
+              height: 58,
+              padding: EdgeInsets.all(6),
               decoration: BoxDecoration(
                 color: Color(0xFFFFFBEB),
                 border: Border.all(color: Color(0xFFFDE68A), width: 2),
@@ -391,7 +391,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 style: TextStyle(fontSize: 16),
               ),
             ),
-            SizedBox(height: 16),
+            SizedBox(height: 6),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
