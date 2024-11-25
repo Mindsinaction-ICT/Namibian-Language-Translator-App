@@ -62,4 +62,8 @@ class TranslationProvider extends ChangeNotifier {
     );
     return translation.audioFiles[language];
   }
+  void clearTranslation() {
+    translatedText = '';
+    notifyListeners();
+  }
 }
