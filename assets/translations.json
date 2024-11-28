@@ -3,339 +3,339 @@
     "id": "001",
     "texts": {
       "english": "Hello, how are you?",
-      "kavango": "Morokeni! One Ngapi?",
-      "oshiwambo": "Owalelepo nawa?",
-      "herero": "Tjike, uri nawa?",
-      "damara": "Matisa?"
+      "rukwangali": "Morokeni! One Ngapi?",
+      "oshikwanyama": "Owalelepo nawa?",
+      "oshiherero": "Tjike, uri nawa?",
+      "khoekhoegowab": "Matisa?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/001_kv.m4a",
-      "oshiwambo": "assets/audios/001_ow.m4a",
-      "herero": "assets/audios/001_he.m4a",
-      "damara": "assets/audios/001_dm.m4a"
+      "rukwangali": "assets/audios/001_kv.m4a",
+      "oshikwanyama": "assets/audios/001_ow.m4a",
+      "oshiherero": "assets/audios/001_he.m4a",
+      "khoekhoegowab": "assets/audios/001_dm.m4a"
     }
   },
    {
     "id": "002",
     "texts": {
       "english": "What is your name?",
-      "kavango": "Yinke edina lyoge?",
-      "oshiwambo": "Edina loye olye?",
-      "herero": "Ena roye otjikwaye?",
-      "damara": "Mâti du /on Hâ?"
+      "rukwangali": "Yinke edina lyoge?",
+      "oshikwanyama": "Edina loye olye?",
+      "oshiherero": "Ena roye otjikwaye?",
+      "khoekhoegowab": "Mâti du /on Hâ?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/002_kv.m4a",
-      "oshiwambo": "assets/audios/002_ow.m4a",
-      "herero": "assets/audios/002_he.m4a",
-      "damara": "assets/audios/002_dm.m4a"
+      "rukwangali": "assets/audios/002_kv.m4a",
+      "oshikwanyama": "assets/audios/002_ow.m4a",
+      "oshiherero": "assets/audios/002_he.m4a",
+      "khoekhoegowab": "assets/audios/002_dm.m4a"
     }
   },
    {
     "id": "003",
     "texts": {
       "english": "My name is [your name].",
-      "kavango": "Edina lyange(...)",
-      "oshiwambo": "Edina lange aame, Tito",
-      "herero": "Ena randje owami (...)",
-      "damara": "Ti /ons ge a [your name]"
+      "rukwangali": "Edina lyange(...)",
+      "oshikwanyama": "Edina lange aame, Tito",
+      "oshiherero": "Ena randje owami (...)",
+      "khoekhoegowab": "Ti /ons ge a [your name]"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/003_kv.m4a",
-      "oshiwambo": "assets/audios/003_ow.m4a",
-      "herero": "assets/audios/003_he.m4a",
-      "damara": "assets/audios/003_dm.m4a"
+      "rukwangali": "assets/audios/003_kv.m4a",
+      "oshikwanyama": "assets/audios/003_ow.m4a",
+      "oshiherero": "assets/audios/003_he.m4a",
+      "khoekhoegowab": "assets/audios/003_dm.m4a"
     }
   },
    {
     "id": "004",
     "texts": {
       "english": "Where are you from?",
-      "kavango": "Kupi watunda?",
-      "oshiwambo": "Owadja peni?",
-      "herero": "Wazapi?",
-      "damara": "Maba xu du ra /khī?"
+      "rukwangali": "Kupi watunda?",
+      "oshikwanyama": "Owadja peni?",
+      "oshiherero": "Wazapi?",
+      "khoekhoegowab": "Maba xu du ra /khī?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/004_kv.m4a",
-      "oshiwambo": "assets/audios/004_ow.m4a",
-      "herero": "assets/audios/004_he.m4a",
-      "damara": "assets/audios/004_dm.m4a"
+      "rukwangali": "assets/audios/004_kv.m4a",
+      "oshikwanyama": "assets/audios/004_ow.m4a",
+      "oshiherero": "assets/audios/004_he.m4a",
+      "khoekhoegowab": "assets/audios/004_dm.m4a"
     }
   },
    {
     "id": "005",
     "texts": {
       "english": "I don't understand.",
-      "kavango": "Kapi nakuyi kwata egano.",
-      "oshiwambo": "Ka ndi uditeko.",
-      "herero": "Hina kuzuva.",
-      "damara": "//Nau!ā tama ta ge hâ."
+      "rukwangali": "Kapi nakuyi kwata egano.",
+      "oshikwanyama": "Ka ndi uditeko.",
+      "oshiherero": "Hina kuzuva.",
+      "khoekhoegowab": "//Nau!ā tama ta ge hâ."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/005_kv.m4a",
-      "oshiwambo": "assets/audios/005_ow.m4a",
-      "herero": "assets/audios/005_he.m4a",
-      "damara": "assets/audios/005_dm.m4a"
+      "rukwangali": "assets/audios/005_kv.m4a",
+      "oshikwanyama": "assets/audios/005_ow.m4a",
+      "oshiherero": "assets/audios/005_he.m4a",
+      "khoekhoegowab": "assets/audios/005_dm.m4a"
     }
   },
    {
     "id": "006",
     "texts": {
       "english": "Can you speak more slowly?",
-      "kavango": "Kuvura o huyunge kuliwora?",
-      "oshiwambo": "Otodulu okupopya kashona?",
-      "herero": "Moyenene okuhingira katiti?",
-      "damara": "//Aeb /kha !khoa re. "
+      "rukwangali": "Kuvura o huyunge kuliwora?",
+      "oshikwanyama": "Otodulu okupopya kashona?",
+      "oshiherero": "Moyenene okuhingira katiti?",
+      "khoekhoegowab": "//Aeb /kha !khoa re. "
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/006_kv.m4a",
-      "oshiwambo": "assets/audios/006_ow.m4a",
-      "herero": "assets/audios/006_he.m4a",
-      "damara": "assets/audios/006_dm.m4a"
+      "rukwangali": "assets/audios/006_kv.m4a",
+      "oshikwanyama": "assets/audios/006_ow.m4a",
+      "oshiherero": "assets/audios/006_he.m4a",
+      "khoekhoegowab": "assets/audios/006_dm.m4a"
     }
   },
    {
     "id": "007",
     "texts": {
       "english": "Please repeat that.",
-      "kavango": "Rugurukamo si nakanderere.",
-      "oshiwambo": "Kwafelenge wu endululemo.",
-      "herero": "Arikana yarukira porukuao.",
-      "damara": "//khawa du mî o."
+      "rukwangali": "Rugurukamo si nakanderere.",
+      "oshikwanyama": "Kwafelenge wu endululemo.",
+      "oshiherero": "Arikana yarukira porukuao.",
+      "khoekhoegowab": "//khawa du mî o."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/007_kv.m4a",
-      "oshiwambo": "assets/audios/007_ow.m4a",
-      "herero": "assets/audios/007_he.m4a",
-      "damara": "assets/audios/007_dm.m4a"
+      "rukwangali": "assets/audios/007_kv.m4a",
+      "oshikwanyama": "assets/audios/007_ow.m4a",
+      "oshiherero": "assets/audios/007_he.m4a",
+      "khoekhoegowab": "assets/audios/007_dm.m4a"
     }
   },
    {
     "id": "008",
     "texts": {
       "english": "How much does this cost?",
-      "kavango": "Esi yingapi?",
-      "oshiwambo": "Oshina ingapi?",
-      "herero": "Otjinatji tjina vingapi?",
-      "damara": "Matikose ī ra #gan"
+      "rukwangali": "Esi yingapi?",
+      "oshikwanyama": "Oshina ingapi?",
+      "oshiherero": "Otjinatji tjina vingapi?",
+      "khoekhoegowab": "Matikose ī ra #gan"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/008_kv.m4a",
-      "oshiwambo": "assets/audios/008_ow.m4a",
-      "herero": "assets/audios/008_he.m4a",
-      "damara": "assets/audios/008_dm.m4a"
+      "rukwangali": "assets/audios/008_kv.m4a",
+      "oshikwanyama": "assets/audios/008_ow.m4a",
+      "oshiherero": "assets/audios/008_he.m4a",
+      "khoekhoegowab": "assets/audios/008_dm.m4a"
     }
   },
    {
     "id": "009",
     "texts": {
       "english": "Where is the bathroom?",
-      "kavango": "Kupiko ko kanzugo?",
-      "oshiwambo": "Oka likwafelo okeli peni?",
-      "herero": "Okaruho keripi?",
-      "damara": "#Khari-omsa maba hâ?"
+      "rukwangali": "Kupiko ko kanzugo?",
+      "oshikwanyama": "Oka likwafelo okeli peni?",
+      "oshiherero": "Okaruho keripi?",
+      "khoekhoegowab": "#Khari-omsa maba hâ?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/009_kv.m4a",
-      "oshiwambo": "assets/audios/009_ow.m4a",
-      "herero": "assets/audios/009_he.m4a",
-      "damara": "assets/audios/009_dm.m4a"
+      "rukwangali": "assets/audios/009_kv.m4a",
+      "oshikwanyama": "assets/audios/009_ow.m4a",
+      "oshiherero": "assets/audios/009_he.m4a",
+      "khoekhoegowab": "assets/audios/009_dm.m4a"
     }
   },
    {
     "id": "010",
     "texts": {
       "english": "Can you help me?",
-      "kavango": "Kuvura o vaterengeko?",
-      "oshiwambo": "Otodulu oku kwafelange?",
-      "herero": "Moyenene okundjivatera?",
-      "damara": "Hui te //kha i du a?"
+      "rukwangali": "Kuvura o vaterengeko?",
+      "oshikwanyama": "Otodulu oku kwafelange?",
+      "oshiherero": "Moyenene okundjivatera?",
+      "khoekhoegowab": "Hui te //kha i du a?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/010_kv.m4a",
-      "oshiwambo": "assets/audios/010_ow.m4a",
-      "herero": "assets/audios/010_he.m4a",
-      "damara": "assets/audios/010_dm.m4a"
+      "rukwangali": "assets/audios/010_kv.m4a",
+      "oshikwanyama": "assets/audios/010_ow.m4a",
+      "oshiherero": "assets/audios/010_he.m4a",
+      "khoekhoegowab": "assets/audios/010_dm.m4a"
     }
   },
    {
     "id": "011",
     "texts": {
       "english": "What time is it?",
-      "kavango": "Yisinke vili ngesi?",
-      "oshiwambo": "Efimbo ongapi paife?",
-      "herero": "Oiri ongapi?",
-      "damara": "Matiko llaexa i go?"
+      "rukwangali": "Yisinke vili ngesi?",
+      "oshikwanyama": "Efimbo ongapi paife?",
+      "oshiherero": "Oiri ongapi?",
+      "khoekhoegowab": "Matiko llaexa i go?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/011_kv.m4a",
-      "oshiwambo": "assets/audios/011_ow.m4a",
-      "herero": "assets/audios/011_he.m4a",
-      "damara": "assets/audios/011_dm.m4a"
+      "rukwangali": "assets/audios/011_kv.m4a",
+      "oshikwanyama": "assets/audios/011_ow.m4a",
+      "oshiherero": "assets/audios/011_he.m4a",
+      "khoekhoegowab": "assets/audios/011_dm.m4a"
     }
   },
    {
     "id": "012",
     "texts": {
       "english": "I need a doctor.",
-      "kavango": "Nahepako mupangi.",
-      "oshiwambo": "Onda pumbwa ndohotola.",
-      "herero": "Mehepa onganga.",
-      "damara": "/Aedi-aoe ta ge #hâ hâ."
+      "rukwangali": "Nahepako mupangi.",
+      "oshikwanyama": "Onda pumbwa ndohotola.",
+      "oshiherero": "Mehepa onganga.",
+      "khoekhoegowab": "/Aedi-aoe ta ge #hâ hâ."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/012_kv.m4a",
-      "oshiwambo": "assets/audios/012_ow.m4a",
-      "herero": "assets/audios/012_he.m4a",
-      "damara": "assets/audios/012_dm.m4a"
+      "rukwangali": "assets/audios/012_kv.m4a",
+      "oshikwanyama": "assets/audios/012_ow.m4a",
+      "oshiherero": "assets/audios/012_he.m4a",
+      "khoekhoegowab": "assets/audios/012_dm.m4a"
     }
   },
    {
     "id": "013",
     "texts": {
       "english": "Do you speak [language]?",
-      "kavango": "Nove kuhuyunga (..)?",
-      "oshiwambo": "Oho popi oshi kwanyama?",
-      "herero": "Uhungira otjiherero?",
-      "damara": "[Language+a(suffix)] !khoa i du ra?"
+      "rukwangali": "Nove kuhuyunga (..)?",
+      "oshikwanyama": "Oho popi oshi kwanyama?",
+      "oshiherero": "Uhungira otjioshiherero?",
+      "khoekhoegowab": "[Language+a(suffix)] !khoa i du ra?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/013_kv.m4a",
-      "oshiwambo": "assets/audios/013_ow.m4a",
-      "herero": "assets/audios/013_he.m4a",
-      "damara": "assets/audios/013_dm.m4a"
+      "rukwangali": "assets/audios/013_kv.m4a",
+      "oshikwanyama": "assets/audios/013_ow.m4a",
+      "oshiherero": "assets/audios/013_he.m4a",
+      "khoekhoegowab": "assets/audios/013_dm.m4a"
     }
   },
    {
     "id": "014",
     "texts": {
       "english": "I am lost.",
-      "kavango": "Nazumbana.",
-      "oshiwambo": "Ondakana.",
-      "herero": "Mbapandjara.",
-      "damara": "Ga da ge hâ."
+      "rukwangali": "Nazumbana.",
+      "oshikwanyama": "Ondakana.",
+      "oshiherero": "Mbapandjara.",
+      "khoekhoegowab": "Ga da ge hâ."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/014_kv.m4a",
-      "oshiwambo": "assets/audios/014_ow.m4a",
-      "herero": "assets/audios/014_he.m4a",
-      "damara": "assets/audios/014_dm.m4a"
+      "rukwangali": "assets/audios/014_kv.m4a",
+      "oshikwanyama": "assets/audios/014_ow.m4a",
+      "oshiherero": "assets/audios/014_he.m4a",
+      "khoekhoegowab": "assets/audios/014_dm.m4a"
     }
   },
    {
     "id": "015",
     "texts": {
       "english": "What is this item called in [language]?",
-      "kavango": "Ngapi o muyizigida eyi meraka lyeni?",
-      "oshiwambo": "Ohashi ufanwa shike mo shiingilisha?",
-      "herero": "Otjina tji tjisaneua kutjavi motjiherero?",
-      "damara": "[Language] !nâ mati du ra #gai ne xū-e?"
+      "rukwangali": "Ngapi o muyizigida eyi meraka lyeni?",
+      "oshikwanyama": "Ohashi ufanwa shike mo shiingilisha?",
+      "oshiherero": "Otjina tji tjisaneua kutjavi motjioshiherero?",
+      "khoekhoegowab": "[Language] !nâ mati du ra #gai ne xū-e?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/015_kv.m4a",
-      "oshiwambo": "assets/audios/015_ow.m4a",
-      "herero": "assets/audios/015_he.m4a",
-      "damara": "assets/audios/015_dm.m4a"
+      "rukwangali": "assets/audios/015_kv.m4a",
+      "oshikwanyama": "assets/audios/015_ow.m4a",
+      "oshiherero": "assets/audios/015_he.m4a",
+      "khoekhoegowab": "assets/audios/015_dm.m4a"
     }
   },
    {
     "id": "016",
     "texts": {
       "english": "Can I borrow your phone?",
-      "kavango": "Kuvura o vaterengeko no funguna zoge?",
-      "oshiwambo": "Kwafelenge ongodi yoye yopeke?",
-      "herero": "Meyenene okuyazema ongoze yoe?",
-      "damara": "Sa //â//âwaba /khuwi //kha i da a?"
+      "rukwangali": "Kuvura o vaterengeko no funguna zoge?",
+      "oshikwanyama": "Kwafelenge ongodi yoye yopeke?",
+      "oshiherero": "Meyenene okuyazema ongoze yoe?",
+      "khoekhoegowab": "Sa //â//âwaba /khuwi //kha i da a?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/016_kv.m4a",
-      "oshiwambo": "assets/audios/016_ow.m4a",
-      "herero": "assets/audios/016_he.m4a",
-      "damara": "assets/audios/016_dm.m4a"
+      "rukwangali": "assets/audios/016_kv.m4a",
+      "oshikwanyama": "assets/audios/016_ow.m4a",
+      "oshiherero": "assets/audios/016_he.m4a",
+      "khoekhoegowab": "assets/audios/016_dm.m4a"
     }
   },
    {
     "id": "017",
     "texts": {
       "english": "I am looking for [place or person].",
-      "kavango": "Ame kwaku papara (muntu ndi evango)?",
-      "oshiwambo": "Oha ndikongo Mindsinaction",
-      "herero": "Mepaha omundu po oruveze.",
-      "damara": "[Person’s name/place +sa/ba (suffix depends on gender, sa is added to a femimine sound and ba to a mascular sound) ] ta ge ra ôa."
+      "rukwangali": "Ame kwaku papara (muntu ndi evango)?",
+      "oshikwanyama": "Oha ndikongo Mindsinaction",
+      "oshiherero": "Mepaha omundu po oruveze.",
+      "khoekhoegowab": "[Person’s name/place +sa/ba (suffix depends on gender, sa is added to a femimine sound and ba to a mascular sound) ] ta ge ra ôa."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/017_kv.m4a",
-      "oshiwambo": "assets/audios/017_ow.m4a",
-      "herero": "assets/audios/017_he.m4a",
-      "damara": "assets/audios/017_dm.m4a"
+      "rukwangali": "assets/audios/017_kv.m4a",
+      "oshikwanyama": "assets/audios/017_ow.m4a",
+      "oshiherero": "assets/audios/017_he.m4a",
+      "khoekhoegowab": "assets/audios/017_dm.m4a"
     }
   }, {
     "id": "018",
     "texts": {
       "english": "Can you show me the way?",
-      "kavango": "Kuvura o likidenge nzira?",
-      "oshiwambo": "Oto dulu oku ulikilange ondjila?",
-      "herero": "Moyenene okundjiyarisira ondjira?",
-      "damara": "Daoba //gaude //kha i du a toxopa?"
+      "rukwangali": "Kuvura o likidenge nzira?",
+      "oshikwanyama": "Oto dulu oku ulikilange ondjila?",
+      "oshiherero": "Moyenene okundjiyarisira ondjira?",
+      "khoekhoegowab": "Daoba //gaude //kha i du a toxopa?"
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/018_kv.m4a",
-      "oshiwambo": "assets/audios/018_ow.m4a",
-      "herero": "assets/audios/018_he.m4a",
-      "damara": "assets/audios/018_dm.m4a"
+      "rukwangali": "assets/audios/018_kv.m4a",
+      "oshikwanyama": "assets/audios/018_ow.m4a",
+      "oshiherero": "assets/audios/018_he.m4a",
+      "khoekhoegowab": "assets/audios/018_dm.m4a"
     }
   },
    {
     "id": "019",
     "texts": {
       "english": "Thank you very much.",
-      "kavango": "Mpandu Uneme.",
-      "oshiwambo": "Onda pandula unene",
-      "herero": "Okuhepa.",
-      "damara": "Kai gangans."
+      "rukwangali": "Mpandu Uneme.",
+      "oshikwanyama": "Onda pandula unene",
+      "oshiherero": "Okuhepa.",
+      "khoekhoegowab": "Kai gangans."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/019_kv.m4a",
-      "oshiwambo": "assets/audios/019_ow.m4a",
-      "herero": "assets/audios/019_he.m4a",
-      "damara": "assets/audios/019_dm.m4a"
+      "rukwangali": "assets/audios/019_kv.m4a",
+      "oshikwanyama": "assets/audios/019_ow.m4a",
+      "oshiherero": "assets/audios/019_he.m4a",
+      "khoekhoegowab": "assets/audios/019_dm.m4a"
     }
   },
    {
     "id": "020",
     "texts": {
       "english": "Goodbye! See you later.",
-      "kavango": "Mbaa zoge! Natulimona konyima.",
-      "oshiwambo": "Uhalapo nawa, ohatulimono nale.",
-      "herero": "Perinawa! Matuhakaene kombunda.",
-      "damara": "Bye egam nî mû gu."
+      "rukwangali": "Mbaa zoge! Natulimona konyima.",
+      "oshikwanyama": "Uhalapo nawa, ohatulimono nale.",
+      "oshiherero": "Perinawa! Matuhakaene kombunda.",
+      "khoekhoegowab": "Bye egam nî mû gu."
     },
     "audioFiles": {
       "english": "assets/audios/001_en.m4a",
-      "kavango": "assets/audios/020_kv.m4a",
-      "oshiwambo": "assets/audios/020_ow.m4a",
-      "herero": "assets/audios/020_he.m4a",
-      "damara": "assets/audios/020_dm.m4a"
+      "rukwangali": "assets/audios/020_kv.m4a",
+      "oshikwanyama": "assets/audios/020_ow.m4a",
+      "oshiherero": "assets/audios/020_he.m4a",
+      "khoekhoegowab": "assets/audios/020_dm.m4a"
     }
   }
   

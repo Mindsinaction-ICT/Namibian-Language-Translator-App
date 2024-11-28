@@ -11,10 +11,10 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   final List<String> languages = [
     'english',
-    'kavango',
-    'oshiwambo',
-    'herero',
-    'damara'
+    'rukwangali',
+    'oshikwanyama',
+    'oshiherero',
+    'khoekhoegowab'
   ];
 
   final TextEditingController inputController = TextEditingController();
